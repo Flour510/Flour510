@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Flour510 
-- 👀 I’m interested in Front End development.
+- 👀 I’m interested in Full Stack Development.
 - 🌱 Currently immersed in the YearUp program learning Java.
 - 📫 Best way to reach me is through email: FPreciado@appdev.yearup.org or preciadoflor@gmail.com
   
